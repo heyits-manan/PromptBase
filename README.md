@@ -1,3 +1,5 @@
+Uploading Screen Recording 2025-09-04 at 10.50.28 PM.mov…
+
 # PromptBase - Chrome Extension for ChatGPT
 
 A minimal Chrome Extension that displays your prompts in a floating panel on ChatGPT pages. Built with React, TypeScript, and Tailwind CSS.
