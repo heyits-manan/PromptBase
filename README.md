@@ -1,4 +1,4 @@
-Uploading Screen Recording 2025-09-04 at 10.50.28 PM.mov…
+
 
 # PromptBase - Chrome Extension for ChatGPT
 
