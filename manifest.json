@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PromptBase",
+  "version": "1.0.0",
+  "description": "A Chrome extension that shows your prompts in a floating panel on ChatGPT",
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*", "https://chat.openai.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["clipboardWrite"],
+  "host_permissions": ["https://chatgpt.com/*", "https://chat.openai.com/*"]
+}
